@@ -59,8 +59,8 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/boulajdad-elmehdi-209141319/)
-- Email: (boulajdad.elmehdi.it@gmail.com)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/boulajdad-elmehdi-209141319/)
+- Email: [email](boulajdad.elmehdi.it@gmail.com)
 
 ---
 
