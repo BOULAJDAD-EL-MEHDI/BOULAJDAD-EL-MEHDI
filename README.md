@@ -100,6 +100,6 @@ Looking for a Software Engineering or Backend Development internship where I can
 
 ## 📫 Connect With Me
 
-- [LinkedIn]([https://www.linkedin.com/in/YOUR_USERNAME/](https://www.linkedin.com/in/boulajdad-elmehdi-209141319/?isSelfProfile=true))
-- [GitHub]([https://github.com/YOUR_USERNAME](https://github.com/BOULAJDAD-EL-MEHDI))
+- [LinkedIn]([https://www.linkedin.com/in/YOUR_USERNAME/](https://www.linkedin.com/in/boulajdad-elmehdi-209141319/)
+- [GitHub](https://github.com/BOULAJDAD-EL-MEHDI)
 - [Email](boulajdad.elmehdi.it@gmail.com)
