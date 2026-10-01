@@ -1,86 +1,105 @@
-<h2 align="center">👋 Hi, I'm Elmehdi Boulajdad</h2>
+# 👋 Hi, I'm Elmehdi Boulajdad
 
-<p align="center">
-  🎓 Computer Science Student | 💻 Software Engineering | 🔐 Cybersecurity
-</p>
+🎓 Computer Science Student  
+💻 Interested in Software Engineering & Backend Development
 
 ---
 
 ## 🚀 About Me
 
-* Focused on **Software Engineering & Backend Development**
-* Interested in **System Design, Software Architecture & Cybersecurity**
-* Building strong foundations in **DSA, OOP, Databases, Networks & Concurrency**
-* Learning how to build software from **requirements to deployment**
+- Computer Science student building strong programming and problem-solving foundations
+- Interested in Software Engineering and Backend Development
+- Currently improving my skills through hands-on projects in C, Python, and Java
+- Focused on writing clean, structured, and maintainable code
 
 ---
 
-## 🎯 Core Skills
-
-* Problem Solving & DSA
-* Object-Oriented Programming
-* Database Design & SQL
-* REST API Design
-* Testing & Debugging
-* Git & Version Control
-* Linux & Operating Systems
-* Networks & HTTP
-* Concurrency & Multithreading
-* Design Patterns
-* Clean Code
-* System Design
-
----
-
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
 ### Languages
 
-`C` `C#` `Java` `Python` `JavaScript` `Bash`
+`C` `Python` `Java` `Bash`
 
-### Backend & Databases
+### Computer Science
 
-`Java` `Spring Boot` `SQL` `PostgreSQL` `REST APIs` `FastAPI` `Django` `JPA/Hibernate`
+`Object-Oriented Programming` • `Data Structures` • `Algorithms` • `Graphs` • `Concurrency`
 
-### Frontend
+### Systems Programming
 
-`JavaScript` `TypeScript` `React` `Bootstrap` `Tailwind CSS`
+`Processes` • `Threads` • `POSIX Threads` • `Mutexes` • `Condition Variables` • `Synchronization` • `Memory Management`
 
-### DevOps & Cloud
+### Development Tools
 
-`Git` `Docker` `CI/CD` `AWS` `GCP` `Kubernetes` `Terraform`
+`Git` • `GitHub` • `Linux` • `Make` • `GDB` • `Valgrind`
 
----
+### Python Tools
 
-## 🏛 Architecture & System Design
-
-`Monolith` • `Modularity` • `Layered Architecture` • `Clean Architecture`
-`Microservices` • `Caching` • `Queues` • `Load Balancing`
-`Scalability` • `Availability` • `Consistency` • `Distributed Systems`
+`Pydantic` • `pytest` • `mypy` • `flake8`
 
 ---
 
 ## 📂 Projects
 
-* **Fly-in** — Graphs, Dijkstra, OOP, Simulation
-* **Codexion** — Threads, Synchronization, Scheduling
-* **Call_Me_Maybe** — Constrained Decoding, Validation, Structured Output
-* **A-Maze-ing** — DFS, BFS, Backtracking, Pathfinding
-* **push_swap** — Stacks, Sorting, Optimization
-* **ft_printf** — Variadic Functions, Parsing
-* **get_next_line** — File Descriptors, Buffers, Memory
-* **libft** — C Fundamentals & Data Structures
+### Fly-in
+Graph-based drone simulation built with Python and OOP.
+
+**Concepts:** Graphs, Dijkstra, OOP, Simulation, Pathfinding
+
+### Codexion
+Multithreaded scheduling simulation written in C using POSIX threads.
+
+**Concepts:** Threads, Mutexes, Condition Variables, Synchronization, Scheduling
+
+### Call_Me_Maybe
+Python project focused on constrained LLM function calling and structured output.
+
+**Concepts:** Python, Pydantic, Validation, Constrained Decoding
+
+### A-Maze-ing
+Maze generation and pathfinding project.
+
+**Concepts:** DFS, BFS, Backtracking, Graph Traversal
+
+### push_swap
+Sorting project using stack operations under strict operation constraints.
+
+**Concepts:** Algorithms, Stacks, Optimization
+
+### ft_printf
+Custom implementation of the C `printf` function.
+
+**Concepts:** Variadic Functions, Parsing, Memory Management
+
+### get_next_line
+Function for reading files line by line in C.
+
+**Concepts:** File Descriptors, Buffers, Static Variables, Memory Management
+
+### libft
+Custom C library implementing common standard-library functions.
+
+**Concepts:** C Fundamentals, Pointers, Memory, Data Structures
 
 ---
 
-## 🔐 Security
+## 📚 Currently Improving
 
-`OWASP Top 10` • `Authentication` • `Authorization` • `Access Control`
-`Input Validation` • `SQL Injection` • `XSS` • `Secure Coding`
+- Data Structures & Algorithms
+- Java & Object-Oriented Programming
+- Linux & Operating Systems
+- Concurrency & Multithreading
+- Software Engineering fundamentals
+
+---
+
+## 🎯 Current Goal
+
+Looking for a Software Engineering or Backend Development internship where I can strengthen my engineering skills and contribute to real-world projects.
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: [linkedin](https://www.linkedin.com/in/boulajdad-elmehdi-209141319/)
-* Email: [email](mailto:boulajdad.elmehdi.it@gmail.com)
+- LinkedIn
+- GitHub
+- Email
